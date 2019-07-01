@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kyoma95's Blog
+title: GouGou's Blog
 subtitle:
 description:
 keywords:
-author: Hanzhang_Guo
+author: GouGou
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kyoma95.github.io
+url: http://rushdcat.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -82,5 +82,5 @@ swiftype_key: aErubK9xEokqozY5Q63j
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repository: ssh://git@github.com/kyoma95/kyoma95.github.io
+    repository: ssh://git@github.com/rushdcat/rushdcat.github.io
     branch: master
